@@ -1,5 +1,5 @@
 <h2>Feature</h2>
-<h3>https://github.com/alvinphp/thumbnail_mini_carousel/edit/main/README.md</h3>
+<h3>Thumbnail mini carousel</h3>
 <div id="header" align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/version-1.1-blue">
 
