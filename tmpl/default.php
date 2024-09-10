@@ -2,7 +2,7 @@
 /* thumbnail_mini_carousel for Joomla!
 --------------------------------------------------------------
  * @copyright	Copyright © 2023 - All rights reserved.
- GitHub: https://github.com/alvinalvin
+ GitHub: https://github.com/alvinphp
  Developer: Alvin Gil Saldaña
  E-mail: alvin_gil@hotmail.com
  Created: November 2023
