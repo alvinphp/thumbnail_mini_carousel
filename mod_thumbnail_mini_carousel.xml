@@ -88,6 +88,6 @@
 		<language tag="en-GB">en-GB/en-GB.mod_thumbnail_mini_carousel.ini</language>
 	</languages>
 <updateservers>
-	  <server type="extension" name="THUMBNAIL MINI CAROUSEL">https://github.com/alvinalvin/updateserver.github.io/blob/main/thumbnail-mini-carousel.xml</server>
+	  <server type="extension" name="THUMBNAIL MINI CAROUSEL">https://alvinphp.github.io/server-/thumbnail-mini-carousel.xml</server>
  </updateservers>
 </extension>
